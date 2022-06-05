@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 92f7b7353a6fcef11afb356a2047f69f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _laserPrefab: {fileID: 41132491566908606, guid: ce61d692f14f8fde9a85cf6672ef3e2d, type: 3}
+  - _tripleFirePrefab: {fileID: 8023756745328353328, guid: 1db09336a449ed1aaafe3ccf5cab5bfd, type: 3}
+  - _shieldPrefab: {fileID: 5385906295773134368, guid: 3514c62c1fdab27b7a06baba4a1cabae, type: 3}
+  - _explosionPrefab: {fileID: 4025447599140883286, guid: 61e8ab2364ebbc06bbe97669e358a0d6, type: 3}
+  - _thrusterPrefab: {fileID: 5130367338843045400, guid: 47d9fee3277b1eb928f687f23510d4e9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
